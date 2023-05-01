@@ -7,7 +7,7 @@
 }
 
 .imagen-perfil{
-    margin: 35% 10% auto 3%;
+    margin: 35% 5% auto 3%;
     border: solid 3px #e3c035;
 
 }
@@ -18,3 +18,65 @@
     text-align: center;
     font-size: 5rem;
 }
+
+.acerca-de{
+    background-color: #e3c035;
+    background-size: 100% auto;
+    color: black;
+    
+}
+
+.acerca-de h2{
+    padding: 10px 30px 10px 0px;
+    font-size: 2.5rem;
+    font-weight:700;
+}
+
+.acerca-de p{
+    font-size: 1.2rem;
+}
+
+.experiencia{
+    padding: 5%;
+    background-color: #c9a61c;
+    height: 100%;
+}
+
+.lista{
+    background-color: black;
+    border: none;
+    color:#e3c035;
+    font-size: large;
+}
+
+.educacion{
+    padding: 5%;
+    background-color: #e3c035;
+    height: 100%;
+}
+
+.skills{
+    padding: 5%;
+    background-color: #c9a61c;
+    height: 100%;
+}
+
+.proyectos{
+    padding: 5%;
+    background-color: #e3c035;
+    height: 100%;
+}
+
+.card{
+    height: 100%;
+    background-color: #ecd578;
+    color: black;
+    border: none;
+}
+
+.footer {
+    text-align: center;
+    padding: 2%;
+    background-color: black;
+    color: #c9a61c;
+  }
